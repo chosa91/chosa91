@@ -52,7 +52,7 @@ I find these few newsletters useful, although there is frequent overlap in the m
 
 ## 🤙 Get in touch
 
-- [LinkedIn](https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-j%C3%B3zsef-kriszti%C3%A1n-cs%C3%A1szi-6a242a70)
+- [LinkedIn](https://www.linkedin.com/in/jozsef-csaszi/)
 - [Twitter](https://twitter.com/milk_o_man)
 
 ## 💬 You can ask me about ...
