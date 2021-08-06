@@ -1,20 +1,20 @@
 # Hi, I'm Jozsef 👋👨‍💻,
 
-I'm an enthusiastic iOS engineer _(with web and backend experience)_ who likes to work on challenging and innovative products while trying to make the world more user-friendly through accessibility & UX practices.
+I'm an enthusiastic iOS engineer _(with web, backend and designing experience)_ who likes to work on challenging and innovative products while trying to make the world more user-friendly through accessibility & UX practices.
 
-> As an iOS Developer I have strong experience in automation, testing, code review, and teamwork.  
-I have far-reaching knowledge of architectural design and I'm on to deliver responsive, fast, and high-quality products respecting the platform, the design and the accessibility guidelines.
+> As an iOS Developer, I have strong experience in automation, testing, code review, and teamwork.  
+> I have far-reaching knowledge of architectural design. I like to deliver responsive, fast, and high-quality products that respect the  platform, design, and accessibility guidelines.
 
 **My core responsibilities:**
 
-- Strong iOS knowledge (Objective-C & Swift 2.2+)
-- Familiarity with frontend (React, Flutter) and backend (NodeJS, Kotlin, PHP, Ruby) technologies
-- I like to make scripts to make my own and others work easier
+- Strong iOS knowledge _(Objective-C & Swift 2.2+)_
+- Familiarity with frontend _(React, Flutter)_ and backend _(NodeJS, Kotlin, PHP, Ruby)_ technologies
+- I'm sort of a "script-kiddie" – I like to create scripts to make my own and others 'work easier
 - Understanding of Apple's design principles and interface guidelines, as well as material guideline
-- Knowledge of other web technologies and UI & UX standards
+- Knowledge of several web technologies
+- UI/UX and Accessibility in mind
 - Proficient understanding of code versioning tools
-- Familiarity with CI/CD (Jenkins, Fastlane, Bitrise, Github Actions, Spinnaker)
-- UX & Accessibility in mind
+- Familiarity with CI/CD _(Jenkins, Fastlane, Bitrise, Github Actions, Spinnaker)_
 - I have a thorough knowledge of different design tools, like Figma and Sketch
 
 ## 🔭 I’m currently working on ...
@@ -34,10 +34,11 @@ Further information about the product: [Career Drivers Cards for Managers and Em
 
 ## 🙇‍♂️ How do I learn?
 
-My main source of knowledge is [this twitter list](https://twitter.com/i/lists/942325827227832320), that I maintain.  
+My main source of knowledge is one of my [twitter list](https://twitter.com/i/lists/942325827227832320).  
 🧐 But if you're curious what I find valuable, it's worth looking at my [Liked tweets](https://twitter.com/milk_o_man/likes).
 
 ### RSS
+
 Other than that I have a quite large [list](https://gist.github.com/chosa91/529c869ad6045984d87e337c4c422f88) with sources in my RSS reader.
 
 ### Newsletters
@@ -63,4 +64,4 @@ I find these few newsletters useful, although there is frequent overlap in the m
 - Design tools, like: Sketch and Figma
 - Onewheel ⚡️🛹😍
 - Board games 🎲
-- Competitive & retro video games 👾
+- Competitive, indie & cooperative video games 👾
