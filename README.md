@@ -5,11 +5,11 @@ I'm an enthusiastic iOS engineer _(with web, backend and designing experience)_ 
 > As an iOS Developer, I have strong experience in automation, testing, code review, and teamwork.  
 > I have far-reaching knowledge of architectural design. I like to deliver responsive, fast, and high-quality products that respect the  platform, design, and accessibility guidelines.
 
-**My core responsibilities:**
+**Skills:**
 
 - Strong iOS knowledge _(Objective-C & Swift 2.2+)_
 - Familiarity with frontend _(React, Flutter)_ and backend _(NodeJS, Kotlin, PHP, Ruby)_ technologies
-- I'm sort of a "script-kiddie" – I like to create scripts to make my own and others 'work easier
+- I'm sort of a "script-kiddie" – I like to create scripts to make the work of myself and others easier
 - Understanding of Apple's design principles and interface guidelines, as well as material guideline
 - Knowledge of several web technologies
 - UI/UX and Accessibility in mind
@@ -17,7 +17,7 @@ I'm an enthusiastic iOS engineer _(with web, backend and designing experience)_ 
 - Familiarity with CI/CD _(Jenkins, Fastlane, Bitrise, Github Actions, Spinnaker)_
 - I have a thorough knowledge of different design tools, like Figma and Sketch
 
-## 🔭 I’m currently working on ...
+## 🔭 I'm currently working on ...
 
 ### [Bridge: People Matter Most](https://apps.apple.com/app/id1451995049) 
 
