@@ -62,3 +62,5 @@ I find these few newsletters useful, although there is frequent overlap in the m
 - UI & UX
 - Design tools, like: Sketch and Figma
 - Onewheel ⚡️🛹😍
+- Board games 🎲
+- Competitive & retro video games 👾
