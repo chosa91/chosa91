@@ -46,7 +46,6 @@ Other than that I have a quite large [list](https://gist.github.com/chosa91/529c
 I find these few newsletters useful, although there is frequent overlap in the mentioned articles:
 
 - [iOSGoodies](https://ios-goodies.com/)
-- [Awesome iOS Weekly](https://ios.libhunt.com/newsletter)
 - [Swift Weekly Brief](https://swiftweeklybrief.com/) along with the [Swift Forums](https://forums.swift.org/) weekly summary
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com/)
 - [ iOS Code Review](https://newsletter.ioscodereview.com/)
