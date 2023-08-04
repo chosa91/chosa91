@@ -73,6 +73,7 @@ Besides these, I have been a subscriber to [Point-Free](https://www.pointfree.co
 - Board games 🎲
 - Books and series related to sci-fi and fantasy :book: :tv:
 - Competitive, indie & cooperative video games 👾
+- American bison 🐂
 
 ## 🤙 Get in touch
 
