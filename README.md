@@ -60,7 +60,7 @@ Besides these, I have been a subscriber to [Point-Free](https://www.pointfree.co
   - :wheelchair: [Accessible Mobile Apps](https://accessible-mobile-apps-weekly.ghost.io/)
   - :moneybag: [App Economy Insights](https://www.appeconomyinsights.com/)
 - Other:
-  - [Swift Evolution (repository)](https://github.com/apple/swift-evolution) – Through GitHub notifications, I track swift-evolution proposals
+  - [Swift Evolution (repository)](https://github.com/apple/swift-evolution) — Through GitHub notifications, I track swift-evolution proposals
   - [Swift Forums](https://forums.swift.org/) — Weekly summary
 
 ## 💬 We can talk about
