@@ -15,7 +15,7 @@ My mission is to deliver high-quality, responsive, and efficient products that r
 - As a "script kiddie", I enjoy creating scripts to simplify my work _(shell, python, javascript, swift)_
 - Proficient with code versioning, and project management tools
 - Knowledge of Apple's design principles and interface guidelines, as well as material guidelines
-- UI/UX and Accessibility (WCAG) in mind
+- UI/UX and Accessibility _(WCAG)_ in mind
 - Having expertise in Adobe Photoshop, Figma, and Sketch
 
 ## 🔭 What am I working on?
@@ -30,7 +30,7 @@ I'm passionate about helping my team members grow and reach their fullest potent
 
 It started as a greenfield 🌱 project.
 Written in pure [Swift](https://swift.org/), with as few 3rd party dependencies as possible.
-Tested extensively _(which I am very proud of)_ via Unit, UI and [Snapshot-tests](https://github.com/pointfreeco/swift-snapshot-testing/).
+Tested extensively _(which I am very proud of)_ via Unit, UI, and [Snapshot-tests](https://github.com/pointfreeco/swift-snapshot-testing/).
 
 — [Learning Management System + Performance Platform](https://www.getbridge.com/)
 
