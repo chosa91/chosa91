@@ -13,7 +13,7 @@ My mission is to deliver high-quality, responsive, and efficient products that r
   - Infrastructure: AWS, Terraform, Spinnaker
   - CI/CD: Jenkins, Bitrise, GitHub Actions
 - As a "script kiddie", I enjoy creating scripts to simplify my work _(shell, python, javascript, swift)_
-- Proficient with code versioning tools
+- Proficient with code versioning, and project management tools
 - Knowledge of Apple's design principles and interface guidelines, as well as material guidelines
 - UI/UX and Accessibility (WCAG) in mind
 - Having expertise in Adobe Photoshop, Figma, and Sketch
