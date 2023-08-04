@@ -18,7 +18,11 @@ My mission is to deliver high-quality, responsive, and efficient products that r
 - UI/UX and Accessibility (WCAG) in mind
 - Having expertise in Adobe Photoshop, Figma, and Sketch
 
-## 🔭 I'm working on
+## 🔭 What am I working on?
+
+In 2022, I became the team leader of the mobile team at [GetBridge](https://www.getbridge.com/) where I have worked as an engineer since 2019.
+
+I'm constantly looking for ways to improve our processes and ensure the team is set up for success. I'm also committed to providing a safe, inclusive environment where everyone can do their most productive work. I'm passionate about helping my team members grow and reach their fullest potential.
 
 ### [Bridge: People Matter Most](https://apps.apple.com/app/id1451995049) 
 
