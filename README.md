@@ -29,13 +29,14 @@ I'm constantly looking for ways to improve our processes and ensure the team is 
 It started as a greenfield 🌱 project.
 Written in pure [Swift](https://swift.org/), with as few 3rd party dependencies as possible.
 Tested extensively _(which I am very proud of)_ via Unit, UI and [Snapshot-tests](https://github.com/pointfreeco/swift-snapshot-testing/).
+
 — [Learning Management System + Performance Platform](https://www.getbridge.com/)
 
 ### [Career Drivers by Bridge](https://apps.apple.com/app/id1517025199)
 
-It was born as a "HackWeek project" written in [Flutter](https://flutter.dev/).
+It was born as a "HackWeek project" written in [Flutter](https://flutter.dev/). 
+You can use this digital version of a card exercise to identify what drives your career.
 
-TL;DR You can use this digital version of a card exercise to identify what drives your career.
 — [Career Drivers Cards for Managers and Employees](https://www.getbridge.com/career-drivers/)
 
 ## 🙇‍♂️ Keeping myself up-to-date
