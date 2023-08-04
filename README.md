@@ -7,12 +7,12 @@ My mission is to deliver high-quality, responsive, and efficient products that r
 ## :crystal_ball: Skills
 
 - Familiarity with a variety of technologies:
-  - Mobile: iOS _(Objective-C & Swift 2.2+)_, Hybrid _(Flutter)_
+  - Mobile: Objective-C, Swift, Flutter
   - Frontend: ExtJS, AngularJS, React
   - Backend: NodeJS, Kotlin, PHP, Ruby
   - Infrastructure: AWS, Terraform, Spinnaker
   - CI/CD: Jenkins, Bitrise, GitHub Actions
-- As a "script kiddie", I enjoy creating scripts to simplify my work _(shell, python, swift)_
+- As a "script kiddie", I enjoy creating scripts to simplify my work _(shell, python, javascript, swift)_
 - Proficient with code versioning tools
 - Knowledge of Apple's design principles and interface guidelines, as well as material guidelines
 - UI/UX and Accessibility (WCAG) in mind
