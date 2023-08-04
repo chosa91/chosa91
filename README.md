@@ -9,7 +9,7 @@ My mission is to deliver high-quality, responsive, and efficient products that r
 - Familiarity with a variety of technologies:
   - Mobile: Objective-C, Swift, Flutter
   - Frontend: ExtJS, AngularJS, React
-  - Backend: TypeScript _(NodeJS)_, Kotlin, PHP, Ruby
+  - Backend: TypeScript _(NodeJS)_, Kotlin _(Spring, Ktor)_, PHP, Ruby
   - Infrastructure: AWS, Terraform, Spinnaker
   - CI/CD: Jenkins, Bitrise, GitHub Actions
 - As a "script kiddie", I enjoy creating scripts to simplify my work _(shell, python, javascript, swift)_
