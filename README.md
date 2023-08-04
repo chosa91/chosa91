@@ -48,19 +48,23 @@ I place a great deal of importance on self-training. Blogs, conferences, newslet
 Besides these, I have been a subscriber to [Point-Free](https://www.pointfree.co/) since 2021, and the content they provide is excellent.
 
 - [RSS](https://gist.github.com/chosa91/529c869ad6045984d87e337c4c422f88)
-- Newsletters:
-  - :iphone: [ iOS Code Review](https://newsletter.ioscodereview.com/)
-  - :iphone: [iOS CI Newsletter](https://www.polpiella.dev/newsletter)
-  - :iphone: [SwiftLee Weekly](https://www.avanderlee.com/)
-  - :iphone: [SwiftlyRush Weekly](https://swiftlyrush.curated.co/)
-  - :iphone: [Use Your Loaf](https://useyourloaf.com/)
-  - :computer: [Not Only Swift](https://not-only-swift.peterfriese.dev/issues/)
-  - :computer: [Technology Radar](https://www.thoughtworks.com/radar)
-  - :computer: [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
-  - :wheelchair: [Accessible Mobile Apps](https://accessible-mobile-apps-weekly.ghost.io/)
-  - :moneybag: [App Economy Insights](https://www.appeconomyinsights.com/)
-- Other:
-  - [Swift Evolution (repository)](https://github.com/apple/swift-evolution) — Through GitHub notifications, I track swift-evolution proposals
+- Newsletters
+  - Mobile (mostly iOS)
+    - [Accessible Mobile Apps](https://accessible-mobile-apps-weekly.ghost.io/)
+    - [iOS CI Newsletter](https://www.polpiella.dev/newsletter)
+    - :star: [iOS Code Review](https://newsletter.ioscodereview.com/)
+    - [SwiftLee Weekly](https://www.avanderlee.com/)
+    - [SwiftlyRush Weekly](https://swiftlyrush.curated.co/)
+    - [Use Your Loaf](https://useyourloaf.com/)
+    - [Not Only Swift](https://not-only-swift.peterfriese.dev/issues/)
+  - Technology
+    - [Technology Radar](https://www.thoughtworks.com/radar)
+    - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
+  - Financial
+    - [App Economy Insights](https://www.appeconomyinsights.com/)
+- Forums
+  - [MobileNativeFoundation](https://github.com/MobileNativeFoundation/discussions/discussions) — discussions
+  - [Swift Evolution](https://github.com/apple/swift-evolution) — Through GitHub notifications, I track swift-evolution proposals
   - [Swift Forums](https://forums.swift.org/) — Weekly summary
 
 ## 💬 We can talk about
